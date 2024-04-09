@@ -1,0 +1,17 @@
+metasploit framework have total of 6 modules which are listed below : 
+1. Auxiliary : Any supporting modules such are scanners,crawlers and fuzzers can found here.
+
+2. Encoders : Encoders will allow to encode the payload so that any signiture based antiviruses may miss them. An signiture based antivirus have a database of known threats.
+Thus they compare a file with that database to find any suspicious file and my check additionl checks on the payloads, so the encoded payloads have limited success rates.
+
+3. Evasion : While Encoders will encode the payload, they shouldn't considerd as direct attemt to evade or bypass the antivirus software. Then evasion module comes in with high 
+or less success reate as compare to the encoders.
+
+4. Exploit : exploit is nothing but a weakness in a system that we can take an advantage of to compromise the system
+
+NOP's : NOPs or "No Operations"  Do nothing and can be found in the x86 intel CPU with family 0x90. This module we can use to achive a buffer to consist of a perticular
+size of an payload.
+
+5. Payload : 
+
+Post : Post module is used to post expoloitation in penetration test  
