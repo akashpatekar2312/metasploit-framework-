@@ -1,0 +1,4 @@
+1) In order to open metasploit console quickly we have to start the postgresql service on our machine which comes preinstalled on kali linux
+2) As we know there are total 7 modules in the metasploit we have to type the "use" keyword to use that module form example : use exploit/<path to the exploit>
+3) After selecting a module we can see option by typing "options"
+4) After setting appropriate options we have to type "run" or "exploit" in order to run the selected module on the target.
