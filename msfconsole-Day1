@@ -12,6 +12,6 @@ or less success reate as compare to the encoders.
 NOP's : NOPs or "No Operations"  Do nothing and can be found in the x86 intel CPU with family 0x90. This module we can use to achive a buffer to consist of a perticular
 size of an payload.
 
-5. Payload : 
+5. Payload :
 
 Post : Post module is used to post expoloitation in penetration test  
