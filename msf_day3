@@ -1,0 +1,14 @@
+# Types of Paylods : 
+
+1) Single Payload : Used to perform a single task such as cration of a user of getting shell .
+2) staged Payload : Stager or Staged is used to transfer a bigger file to the target machine.
+3)Stages Paylod : Stages is responsible to to putting a different files together and making it as one such if we need multiple files to exploit a system but an IDS is blocking it 
+in this case we transfer files on the target machine and by using the stages paylod we combine it as we wanted in order to exploit a system
+4) Meterpreter: Meterpreter is a famous among all the paylods because it gives you the interactive shell to the target machine 
+
+
+# Types of shell (Bind & Reverse) : 
+
+Bind shell : When we manually have to connect to the systemc it is called as bind shell 
+
+Reverse shell : When we have to run a code on the target machine and activly listen on the attacker machine in order to obtain a shell that is called as Reverse shell
