@@ -1,0 +1,6 @@
+# Meterpreter : Meterperter is a payload which ofter used in a post exploitation phase of hacking.
+
+# Meterpreter uses dll(dynamic link libraries) injections to perform tasks which makes it stethy as compare to other paylodads which starts a process in order to do the task they
+ment to designed for and eventually caught by any detection system such as HIDS,IDS or IPS.
+
+# 
